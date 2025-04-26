@@ -2,6 +2,8 @@
 
 **`object_id`**: 文物的唯一编号（与列表页的 `object_id` 相同）。
 
+**`title`**: 文物的标题。
+
 **`current_location`**: 文物的当前存放地点。
 
 **`culture`**: 文物所属的文化。
